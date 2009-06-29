@@ -1,5 +1,8 @@
 Revision history for MooseX-Storage-Format-XML-Simple
 
+0.04    2009-06-14
+         - Code released on github
+
 0.04    2008-11-12
 		 - Added more prerequisites (MooseX::Storage)
 
